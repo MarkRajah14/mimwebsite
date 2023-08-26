@@ -1,0 +1,42 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+h3 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.banner {
+    width: 80%;
+    height: 25vh;
+}
+
+.upper {
+    background-color: #50B1BD;
+    text-align: center;
+    padding: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+p {
+    color: #333333;
+    opacity: 75%;
+    font-size: larger;
+}
+.navbar {
+    background-color: whitesmoke;
+}
+
+.main {
+    width: 70%;
+}
+.agenda {
+    text-align: center;
+}
